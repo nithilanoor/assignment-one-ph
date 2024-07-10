@@ -25,6 +25,7 @@
     letter-spacing: 0%;
     color: rgb(13, 19, 33);
     opacity: 0.7;
+    text-align: center;
 }
 .btn-one{
     border-radius: 8px;
@@ -32,6 +33,11 @@
     padding: 21px 24px 21px 24px;
     background: rgb(13, 19, 33);
     color: rgb(255, 255, 255);
+}
+/* main styles */
+.main-o{
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
 }
 /* main-one styles */
 .main{
@@ -67,6 +73,7 @@ text-align: center;
     align-items: flex-start;
     padding: 52px;
     margin: 32px 0px;
+    background-color: white;
 }
 .title-three{
     color: rgba(13, 19, 33, 0.7);
@@ -93,6 +100,7 @@ justify-content: flex-start;
 align-items: center;
 padding: 52px;
 margin: 32px 0px;
+background-color: white;
 }
 .title-four{
     color: rgba(13, 19, 33, 0.7);
@@ -129,4 +137,23 @@ color: rgb(13, 19, 33);
     align-items: center;
     padding: 52px;
     margin: 32px 0px;
+    background-color: white;
+}
+/* inspiration-part */
+.title-five{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+}
+/* video styles */
+.video{
+    border: 1px solid rgba(13, 19, 33, 0.2);
+border-radius: 16px;
+box-sizing: border-box;
+margin: auto;
+display: block;
 }
