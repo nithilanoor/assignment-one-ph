@@ -214,13 +214,15 @@ text-align: center;
 }
 .suggestion{
     background-image: url('../assets/handshake.jpg');
-    border-radius: 16px;
-    padding: 40px 23px 40px 23px;
-    background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2);
     background-repeat: no-repeat;
-    width: 100%;
+    background-position: center;
     margin-right: 148px;
-    margin-left: 148px;
+    margin-left: 500px;
+    border-radius: 16px;
+    padding: 20px;
+    height: 314px;
+    width: 1140px;
+    align-items: center;
 }
 .submit{
     text-align: center;
